@@ -41,5 +41,11 @@ Satatistical Analysis :
 
 Hypothesis Testing :
 - Fundamentals : Understand null and alternative hypotheses, significance levels, and p-values.
-                 Familiar with tests like Z-test,t-tests, chi-square tests,pearson,spearman and ANOVA. 
+                 Familiar with tests like Z-test,t-tests, chi-square tests,pearson,spearman and ANOVA.
+
+**Hypothesis Testing:**
+
+- **Fundamentals:** Understand null and alternative hypotheses, significance levels, and p-values.  
+  Familiar with tests like Z-test, t-tests, chi-square tests, Pearson, Spearman, and ANOVA.
+
 
