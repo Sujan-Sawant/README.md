@@ -40,7 +40,6 @@ Satatistical Analysis :
 - Descriptive Statistics : Descriptive Statistics: Understanding and summarizing the main features of a dataset, such as mean, median, mode, variance, and standard deviation.
 
 Hypothesis Testing :
-- Fundamentals : - Understand null and alternative hypotheses, significance levels, and p-values.
-  
-  Familiar with tests like Z-test,t-tests, chi-square tests,pearson,spearman and ANOVA. 
+- Fundamentals : Understand null and alternative hypotheses, significance levels, and p-values.
+                 Familiar with tests like Z-test,t-tests, chi-square tests,pearson,spearman and ANOVA. 
 
