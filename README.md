@@ -47,5 +47,12 @@ Hypothesis Testing :
 
 - **Fundamentals:** Understand null and alternative hypotheses, significance levels, and p-values.  
   Familiar with tests like Z-test, t-tests, chi-square tests, Pearson, Spearman, and ANOVA.
+- **Execution:** Choose appropriate tests based on data type and assumptions.
+  Conduct tests and interpret results using statistical tools or software.
+- **Interpretation:** Analyze results, understand confidence intervals, effect sizes, and p-values.
+  Recognize Type I and Type II errors.
+- **Practical Application:** Validate assumptions for tests and apply methods to real-world problems.
+  Use power analysis and handle multiple comparisons effectively.
+- **Reporting:** Communicate findings clearly and use results for data-driven decisions.
 
 
